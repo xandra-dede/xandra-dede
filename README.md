@@ -69,7 +69,7 @@ I'm currently pursuing the **IBM DevOps & Software Engineering Professional Cert
 
 ## 💼 Experience Highlights
 
-**Assistant Data Team Lead @ Althub** *(May – Oct 2025)*
+**Assistant Data Team Lead @ Genesis Technologies** *(May – Oct 2025)*
 > Wrote Python scripts to detect and resolve data inconsistencies across operational pipelines. Traced root causes of system mismatches, documented findings and communicated technical issues
 
 ---
