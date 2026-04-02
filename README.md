@@ -1,5 +1,5 @@
 # Hi, I'm Onome Alexandra Dedekimor 👋
-**A DevOps & Site Reliability Engineer** ·learning and trying to keep systems alive and pipelines flowing.
+**A DevOps Engineer** ·learning and trying to keep systems alive and pipelines flowing.
 
 ## About Me
 
