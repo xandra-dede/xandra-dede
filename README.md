@@ -23,7 +23,8 @@ I'm currently pursuing the **IBM DevOps & Software Engineering Professional Cert
 ## 📚 Currently Learning
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-6C5DD3?style=flat-square)
-![GCP/AWS](https://img.shields.io/badge/Google_Cloud-Beginner-6C5DD3?style=flat-square)
+![GCP](https://img.shields.io/badge/Google_Cloud-Beginner-6C5DD3?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-Beginner-6C5DD3?style=flat-square)
 ![Terraform](https://img.shields.io/badge/Terraform-Beginner-6C5DD3?style=flat-square)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-Beginner-6C5DD3?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker_%26_Containers-Beginner-6C5DD3?style=flat-square)
