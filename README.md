@@ -5,17 +5,17 @@
 
 I'm building a career in Data Analysis — with a background that might surprise you.
 
-Five years of Chemical Engineering trained me to think in systems: model how things work, analyze experimental data, find where inefficiencies lie, and document solutions clearly. I now apply that exact rigorous thinking to commercial datasets, operational metrics, and business intelligence.
+Five years of Chemical Engineering trained me to think in systems: how do things work, analyze experimental data, find where inefficiencies and inconsistencies lie and document solutions clearly. I now apply that exact rigorous thinking to my data analysis skills.
 
-With completed certifications in Data Analysis from **AltSchool Africa** and the **Google Data Analytics Professional Certificate** (in progress), I combine technical tooling (Python, SQL, Advanced Excel, and Power BI) with strong stakeholder communication to drive data-informed decisions.
+With certifications in Data Analysis from **AltSchool Africa** and the **Google Data Analytics Professional Certificate** (in progress), I combine technical tooling (Python, SQL, Advanced Excel, and Power BI) with strong stakeholder communication to drive data-informed decisions.
 
 ---
 
 ## 🔧 What I'm Currently Working On
 
-- **Business Intelligence Dashboards** — building interactive Excel and Power BI dashboards to track sales performance and operational KPIs
-- **Advanced SQL & Python for Data Cleaning** — writing clean queries and scripts to investigate, clean, and validate multi-country commercial datasets
-- **GitHub Portfolio** — organizing end-to-end data analysis projects showcasing data hygiene, exploratory data analysis (EDA), and visualization
+- **Dashboards** — building interactive Excel and Power BI dashboards to track sales performance and operational KPIs
+- **SQL for Data Cleaning** — writing clean queries and scripts to investigate, clean and validate datasets
+- **My Portfolio** — organizing end-to-end data analysis projects showing exploratory data analysis (EDA) and visualization
 
 ---
 
@@ -39,18 +39,18 @@ With completed certifications in Data Analysis from **AltSchool Africa** and the
 
 | Credential | Institution | Status |
 |---|---|---|
-| Google Data Analytics Professional Certificate | Coursera | ✅ Completed |
-| Data Analysis | AltSchool Africa | ✅ Completed (Oct 2025)[cite: 1] |
-| B.Eng. Chemical Engineering | Federal University of Technology, Minna | ✅ Completed (Nov 2025)[cite: 1] |
+| Google Data Analytics Professional Certificate | Coursera | In Progress |
+| Data Analysis | AltSchool Africa | ✅ Completed (Oct 2025) |
+| B.Eng. Chemical Engineering | Federal University of Technology, Minna | ✅ Completed (Nov 2025) |
 
 ---
 
 ## 💼 Experience Highlights
 
-**Assistant Data Team Lead @ AltSchool Africa (Remote)** *(May – Oct 2025)*[cite: 1]
+**Assistant Data Team Lead @ AltSchool Africa (Remote)** *(May – Oct 2025)*
 > Investigated and resolved root causes of data mismatches between operations and recorded databases. Coordinated task tracking across a technical team, led weekly syncs, and documented research findings into clear operational insights.
 
-**Research Analyst, CO2 Capture and Optimization** *(April – Nov 2025)*[cite: 1]
+**Research Analyst, CO2 Capture and Optimization** *(April – Nov 2025)*
 > Designed experimental studies, generated complex quantitative datasets, carried out comparative performance analysis, and authored technical documentation turning raw figures into actionable conclusions.
 
 ---
