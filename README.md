@@ -23,11 +23,11 @@ With certifications in Data Analysis from **AltSchool Africa** and the **Google 
 
 **Data & Analytics Tools**
 
-![Excel]
-![SQL]
-![Python]
-![Power BI]
-![Google Suite]
+![Excel](https://img.shields.io/badge/Excel-3B6D11?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-185FA5?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3B6D11?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-0F6E56?style=flat-square&logo=powerbi&logoColor=white)
+![Google Suite](https://img.shields.io/badge/Google_Suite-4285F4?style=flat-square&logo=googledrive&logoColor=white)
 
 **Methodologies & Core Competencies**
 
