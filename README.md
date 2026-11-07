@@ -1,13 +1,13 @@
 # Hi, I'm Onome Alexandra Dedekimor 👋
-**A Data Analyst & Problem Solver** · turning raw data into clear, actionable business insights.
+**A Data Analyst and Problem Solver** · turning raw data into clear, actionable business insights.
 
 ## About Me
 
-I'm building a career in Data Analysis and Consulting — with a background that might surprise you.
+I'm building a career in Data Analysis — with a background that might surprise you.
 
 Five years of Chemical Engineering trained me to think in systems: model how things work, analyze experimental data, find where inefficiencies lie, and document solutions clearly. I now apply that exact rigorous thinking to commercial datasets, operational metrics, and business intelligence.
 
-With completed certifications in Data Analysis from **AltSchool Africa** and the **Google Data Analytics Professional Certificate**, I combine technical tooling (Python, SQL, Advanced Excel, and Power BI) with strong stakeholder communication to drive data-informed decisions.
+With completed certifications in Data Analysis from **AltSchool Africa** and the **Google Data Analytics Professional Certificate** (in progress), I combine technical tooling (Python, SQL, Advanced Excel, and Power BI) with strong stakeholder communication to drive data-informed decisions.
 
 ---
 
